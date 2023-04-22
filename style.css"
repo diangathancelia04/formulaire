@@ -1,0 +1,36 @@
+
+
+ body{
+    background-image: url("cadre.2.png");
+    background-repeat: no-repeat;
+    background-size:300px 450px;
+    background-position: 940px 445px;
+    margin: 150px     
+}
+
+.img{
+	text-align:center;
+	margin-top:-10px;
+      
+  }
+
+    form{
+    	background-color:blue ;
+    	background-color:blue;
+    	top: 100%
+    	left:50%;
+    	position:center;
+    	border: 1px solid black;
+    	padding: 3rem; 
+    	margin-top: 70px;
+    	width:30%;
+    	background-color:blue:;
+    	box-shadow: 5px 5px 20px  1px rgb(85,85,85);
+    	border-radius: 10px 10px 10px;
+    	height: 500PX;
+} 
+button{
+ cursor:pointer;
+}
+
+
